@@ -1,4 +1,4 @@
-package com.ajinkya.sparkstreaming
+package com.manali.sparkstreaming
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
